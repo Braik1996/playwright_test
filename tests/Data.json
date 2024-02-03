@@ -1,0 +1,29 @@
+[{
+    "email": "braikchs@gmail.com",
+    "password": "123456789Braik",
+    "Cpassword": "123456789Braik",
+    "lastName": "zidane",
+    "firstName": "zindine",
+    "country": "-Algérie",
+    "paysDenaissance":"-Algérie",
+    "postalCode": "13001",
+    "city": "Marseille",
+    "phoneNumber": "0785658923",
+    "domaine":"Informatique",
+    "NiveauE":"Master 2"
+  },
+  {
+    "email": "braikchs@gmail.com",
+    "password": "123456789Braik",
+    "Cpassword": "123456789Braik",
+    "lastName": "Achour",
+    "firstName": "zindine",
+    "country": "-Algérie",
+    "paysDenaissance":"-Algérie",
+    "postalCode": "75000",
+    "city": "Paris",
+    "phoneNumber": "0785658923",
+    "domaine":"Informatique",
+    "NiveauE":"Master 2"
+  }
+]
